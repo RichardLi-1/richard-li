@@ -16,10 +16,9 @@
                     organized
                     <img
                       alt="YRHacks Logo"
-                      style="max-width:5px; max-height:5px"
                       src="yrhacks-logo.png"
-                      width="10"
-                      height="10"
+                      width="12"
+                      height="12"
                     />
                     <a
                       href=""
